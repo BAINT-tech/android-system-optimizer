@@ -14,3 +14,6 @@ Improve Android battery life using safe system tweaks.
 3. Make script executable:
 ```sh
 chmod +x battery_opt.sh
+
+## Logs
+All execution logs are saved in the `logs/` folder for future analysis.
