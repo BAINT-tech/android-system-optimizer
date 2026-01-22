@@ -15,3 +15,10 @@ Android performance without requiring custom ROMs.
 - Problem definition completed
 - Initial system experiment documented
 - First system optimization script added
+
+- # Android System Optimizer
+
+This repository contains experiments to optimize Android devices:
+
+- [Battery Optimization Experiment](battery/README.md)
+- [Bloatware Analysis Experiment](bloatware/README.md)
