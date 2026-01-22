@@ -1,0 +1,24 @@
+Battery Optimization Experiment - Sample Log
+--------------------------------------------
+
+Date: 2026-01-22
+Device: Pixel 6
+Android Version: 14
+
+Initial Battery: 100%
+Screen-on time: 3h 25m
+Battery Drain Rate: 10% per hour
+
+Applied Optimizations:
+- Disabled background sync for unused apps
+- Adjusted adaptive brightness
+- Turned off location services for idle apps
+
+Results After 24 Hours:
+Battery: 85%
+Screen-on time: 4h 10m
+Battery Drain Rate: 6.25% per hour
+
+Notes:
+- Noticeable improvement in background battery drain
+- Optimizations safe, no apps crashed
