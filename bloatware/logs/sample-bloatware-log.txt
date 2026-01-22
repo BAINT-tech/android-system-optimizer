@@ -1,0 +1,17 @@
+Bloatware Analysis Experiment - Sample Log
+------------------------------------------
+
+Date: 2026-01-22
+Device: Galaxy S22
+Android Version: 14
+
+Detected Pre-installed Apps:
+- Facebook (Third-party, safe to disable)
+- Google Play Movies (Optional system app, safe to disable)
+- Carrier Messaging App (Optional system app, safe to disable)
+- Android System UI (System-critical, DO NOT disable)
+
+Analysis:
+- 4 apps detected as optional or third-party bloatware
+- Disabling optional apps can reduce background CPU & RAM usage by ~8%
+- System-critical apps must remain active to avoid crashes
